@@ -1,0 +1,36 @@
+c:\users\dunia\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\dunia\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\dunia\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\dunia\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\dunia\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\dunia\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Domain.dll
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Infraestructure.dll
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Domain.pdb
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Infraestructure.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Domain.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Infraestructure.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Domain.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Infraestructure.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Service.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Service.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Autofac.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Domain.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Infraestructure.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Service.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Domain.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Infraestructure.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Service.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\bin\Debug\Autofac.xml
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

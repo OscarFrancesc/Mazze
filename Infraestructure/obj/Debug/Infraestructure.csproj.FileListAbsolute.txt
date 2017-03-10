@@ -1,0 +1,21 @@
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\Infraestructure\bin\Debug\Domain.dll
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\Infraestructure\bin\Debug\Domain.pdb
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.csprojResolveAssemblyReference.cache
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\dunia\OneDrive\Documentos\Visual Studio 2015\Projects\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.csprojResolveAssemblyReference.cache
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Infraestructure\bin\Debug\Domain.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Infraestructure\bin\Debug\Domain.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Infraestructure\bin\Debug\Domain.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Infraestructure\bin\Debug\Domain.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.csprojResolveAssemblyReference.cache
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Infraestructure\obj\Debug\Infraestructure.pdb

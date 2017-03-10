@@ -1,0 +1,18 @@
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Service.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Service.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Domain.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Infraestructure.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Domain.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Infraestructure.pdb
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\obj\Debug\Service.dll
+C:\Users\ITAV0076\Desktop\ConsoleApplication2\ConsoleApplication2\Service\obj\Debug\Service.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Service.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Service.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Domain.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Infraestructure.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Domain.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\bin\Debug\Infraestructure.pdb
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\obj\Debug\Service.dll
+C:\Users\dunia\OneDrive\Documentos\ConsoleApplication2 (2)\ConsoleApplication2\ConsoleApplication2\Service\obj\Debug\Service.pdb
